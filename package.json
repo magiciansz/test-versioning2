@@ -4,6 +4,10 @@
     "@semantic-release/github": "^9.0.4",
     "semantic-release": "^21.1.1"
   },
+  "scripts": {
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "release": {
     "branches": ["main"]
   },
